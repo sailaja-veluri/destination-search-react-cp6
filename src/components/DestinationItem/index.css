@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+.destination-pic {
+  height: 250px;
+  width: 250px;
+}
+
+.destination-name {
+  font-size: 15px;
+  color: black;
+}
